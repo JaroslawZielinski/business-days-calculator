@@ -19,6 +19,7 @@
         "phpunit/phpunit": "4.*||>=8.0.0",
         "php-coveralls/php-coveralls": "^1.1"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "BusinessDays\\": "src"
